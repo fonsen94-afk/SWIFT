@@ -1,4 +1,0 @@
-PyQt5>=5.15
-paramiko>=2.11  # optional (SFTP support)
-xmlschema>=2.0.0
-lxml>=4.9
